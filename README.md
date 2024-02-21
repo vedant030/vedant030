@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vedant Brahmankar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="middle" alt="Coding" width="400" src="[https://github.com/vedant030/vedant030/assets/104668379/65693531-686d-4daf-abee-309f9853156e](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0Kf4viZJO2CCZ8zhEudt4y&ust=1708610222170000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPD9g5vLvIQDFQAAAAAdAAAAABAE">
+<img align="middle" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant030&label=Profile%20views&color=0e75b6&style=flat" alt="vedant030" /> </p>
